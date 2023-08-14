@@ -1,4 +1,4 @@
-<img src="https://github.com/frigate-apps/Frigate/raw/main/Frigate-Logo.svg" alt="Frigate" height="128" />
+<img src="Frigate2-logo.svg" alt="Frigate" height="128" />
 
 
 ```
